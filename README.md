@@ -16,10 +16,12 @@ Licenciatura en Ingeniería en Tecnologías de la Información e Innovación Dig
 
 ## Síntesis general
 
-(Escribe aquí en 1 o 2 párrafos, con tus propias palabras, de qué trató el curso: qué aprendiste, qué temas te costaron más y cuáles te gustaron. Usa primera persona.)
+Este curso de Python Essentials 1 me llevó de la mano desde cero para entender toda la base de la programación en Python. Aprendí sobre variables, tipos de datos, operaciones lógicas y cómo estructurar código limpio y funcional.
+
+Además, profundicé muchísimo en el uso de estructuras de control (como ciclos y condicionales)
 
 ---
 
 ## Conclusión
 
-(Escribe aquí una reflexión breve de lo que te llevas del curso.)
+Pues te llevas un aprendizaje demasiado bueno, si de verdad lees el curso muy detalladamente puede ser un curso que te servirá para formarte académicamente excelente 
