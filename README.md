@@ -7,10 +7,10 @@ Licenciatura en Ingeniería en Tecnologías de la Información e Innovación Dig
 
 - **Alumno:** Arturo Vargas Venegas
 - **Matrícula:** 1225100269
-- **Grupo:** GTIR236
-- **Materia:** (escribe aquí el nombre de la materia)
-- **Docente:** (escribe aquí el nombre del docente)
-- **Fecha de entrega:** (escribe aquí la fecha)
+- **Grupo:** GTIR246
+- **Materia:** Programación de redes
+- **Docente:** Gabriel Barrón Rodriguez
+- **Fecha de entrega:** 09/23/2026
 
 ---
 
